@@ -56,5 +56,11 @@ Non-zero memory:
 0x00000020: 0x002083e5
 0x00000100: 0x78000000
 ```
+# Building
 
+The project was developed with [CLion](https://www.jetbrains.com/clion/). To build the project:
+- Install [CLion](https://www.jetbrains.com/clion/)
+- Import the project (via New CMake project from sources)
+- Copy the CMakeList.txt
+- Build the project
 
