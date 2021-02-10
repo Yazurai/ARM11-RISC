@@ -42,4 +42,5 @@ assemble
 
 #ignore CLion files
 .idea
-/cmake*
+cmake*
+!CMakeLists.txt
